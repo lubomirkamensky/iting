@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /aspnet_client/
+Disallow: /vrh.asp
+Sitemap: http://iting.timetree.info/sitemap.xml
