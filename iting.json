@@ -1,0 +1,515 @@
+{"Hexagrams": {
+    "777777": {
+        "id": "1",
+        "cd": "777777",
+        "top": "nebe",
+        "bottom": "nebe",
+        "name": "tvoření",
+        "meaning": "Jste na cestě k celkovému úspěchu v souladu s nebem. Je však důležité,  abyste  se  nenechali  rozptýlit. Prokažte svou předvídavost. Šlechetný člověk je ve svém úsilí neúnavný. Štěstí a energie."
+    },
+    "888888": {
+        "id": "2",
+        "cd": "888888",
+        "top": "země",
+        "bottom": "země",
+        "name": "odevzdanost",
+        "meaning": "Nejste v nezávislém postavení. Také byste neměli podnikat nebo se snažit řídit, nýbrž byste se měli přizpůsobit okolnostem a nechat se vést. Zůstanete-li poddajní, dosáhnete úspěchu. Mírnost s vytrvalostí přinesou štěstí a zisk."
+    },
+    "788878": {
+        "id": "3",
+        "cd": "788878",
+        "top": "voda",
+        "bottom": "hrom",
+        "name": "počáteční nesnáz",
+        "meaning": "Jste ve stavu duchovního nebo citového zmatku a nejste schopni se v něm vyznat. Uvědomte si, že tyto pocity jsou důsledkem právě se rozvíjející síli. Všechno musí být ztvárněno, musí si najít své místo. Doba rození a růstu není nikdy jednoduchá a snadná. Současná situace je bohatá na možnosti, pochopíte její smysl a využijete ji, budete-li jednat klidně, nevzrušeně a obklopíte-li se osobami, které mají stejné sklony."
+    },
+    "878887": {
+        "id": "4",
+        "cd": "878887",
+        "top": "hora",
+        "bottom": "voda",
+        "name": "zrání",
+        "meaning": "Zrání je nezralost. Určitě budete jednat poněkud nerozvážně. Nepřinese to výčitky, jste-li  si vědomi svých slabostí a vyhledáte-li radu moudrého člověka. Je třeba hledat zkušeného učitele. On vás hledat nebude. Je možný jiný výklad: není dobré dávat rady někomu, kdo o to nestojí. Je lépe počkat,až přijde sám. Když přijde poprvé, poučím ho, přijde-li zase, potřetí, přestanu. Neboť k úspěchu je třeba trpělivosti. Nic nelze uspěchat, nic nelze přeskočit."
+    },
+    "777878": {
+        "id": "5",
+        "cd": "777878",
+        "top": "voda",
+        "bottom": "nebe",
+        "name": "čekání",
+        "meaning": "Tento hexagram se vykládá ve dvou úrovních. Nejprve znamená - pokud se chystá nějaká událost, je zbytečné se snažit uspíšit její příchod. Všechno má svůj čas. Není nutné zasahovat, je třeba na její chvíli počkat. Vytrvalost přináší štěstí! Poté vám oznamuje přítomnost nebezpečí nezávislého na vaší vůli, před nímž se musíte zastavit, abyste mu pohlédli do tváře, předvídavě, aniž byste si dělali iluze. Až ho skutečně poznáte, můžete mu čelit s vyhrajete. Je nutné mít trpělivost s sebedůvěru, potom zvládnete i velké riziko."
+    },
+    "878777": {
+        "id": "6",
+        "cd": "878777",
+        "top": "nebe",
+        "bottom": "voda",
+        "name": "konflikt",
+        "meaning": "Třebaže jste si svým právem  jisti, jste čelem k silnému protikladu způsobujícímu střetnutí, které jste v pokušení vyžešit násilím. Nebezpečí. Bez zbytečného riskování lze přežít i to, co na první pohled vypadá neřešitelně. Vězte, že zacházet do krajnosti vám nijak nepomůže. Vyvolávalo by to neustále nové konflikty. Zajímejte se spíše  o názor někoho nestranného. Šlechetný člověk při práci dlouho zvažuje svůj první krok. Není příhodná chvíle chtít překročit velkou řeku."
+    },
+    "878888": {
+        "id": "7",
+        "cd": "878888",
+        "top": "země",
+        "bottom": "voda",
+        "name": "vojsko",
+        "meaning": "Tento hexagram vyjadřuje vojsko jako sílu, která potřebuje zkušeného velitele, aby účinně působila. Oznamuje vám, že svým způsobem musíte být velitelem, generálem. Ale aby se vám to podařilo, potřebujete  důvěru vašich oddílů  a nesmíte nic opomenout, abyste si ji zasloužili. Situace vůdce, velitele je totiž zranitelná, třebaže se to nezdá."
+    },
+    "888878": {
+        "id": "8",
+        "cd": "888878",
+        "top": "voda",
+        "bottom": "země",
+        "name": "spojení",
+        "meaning": "Každý je součástí proudu.  Obecným významem je, že člověk potřebuje druhé, aby se plně realizoval. Tato myšlenka má dvojí význam. Buď oznamuje, že osoba má hrát ústřední roli ( pokud se to týká vás, musíte vrhnout I-ťing podruhé, abyste věděli, máte-li nezbytnou vnitřní sílu pro takovou odpovědnost ), nebo vám dává vědět, že pro úspěch ve vašem podnikání potřebujete druhé a musíte využít společných zkušeností. Buď budete tím, kolem něhož se ostatní budou združovat, nebo se připojíte k druhým."
+    },
+    "777877": {
+        "id": "9",
+        "cd": "777877",
+        "top": "vítr",
+        "bottom": "nebe",
+        "name": "vláda slabého",
+        "meaning": "Malý má úspěch podrobí-li se. Jste bezmocní, chcete-li, aby se události vyvíjeli podle vašeho přání. Zatím nemáte potřebnou sílu, abyste začali rozsáhlou činnost. můžete ovlivňovat spíše laskavosí a vnuknutím, než vymáháním."
+    },
+    "778777": {
+        "id": "10",
+        "cd": "778777",
+        "top": "nebe",
+        "bottom": "jezero",
+        "name": "vykročení",
+        "meaning": "Chůze i nevhodné jednání. Vstoupit na ocas tygra a on ho nekousne. Význam tohoto hexagramu je prostý. Slabší obstojí ve střetu se silnějším, najde-li k němu vhodný přístup. Musíte postupovat  s ohledem  na opravidla  společnosti, ve které pobýváte. Vhodným chováním se dají zdárně vyřešit i situace na první pohled beznadějné. I když se stýkáte s nepříjemnými lidmi, vaše laskavé chování a respekt vás ochrání od všeho nebezpečí."
+    },
+    "777888": {
+        "id": "11",
+        "cd": "777888",
+        "top": "země",
+        "bottom": "nebe",
+        "name": "mír",
+        "meaning": "Malé odchází, velké přichází. Je to štěstí, je to prosperita. Nacházíte se v období plném harmonie, v souladu s vámi a se světem, který vás obklopuje. Naučte se využít toho okamžiku. Rovnováha mezi nebem a zemí, šťastné a příznivé znamení. Svornost a smír, všechno má místo a čas, jenž jim náleží."
+    },
+    "888777": {
+        "id": "12",
+        "cd": "888777",
+        "top": "nebe",
+        "bottom": "země",
+        "name": "nehybnost",
+        "meaning": "Kolem vás vládne nedůvěra a přísnost, někteří se vás pokoušejí zmýlit. Za takových okolností nenaslouchejte nabídkám z okolí, třebaže jsou lákavé. Šetřte síly a vyhýbejte se nasnázím. Malí a nízcí stoupají vzhůru. Zůstaňte v ústraní a nepodílejte se na špatných činech. Velké odchází, přichází malé. Zůstaňte však věrni svým dlouhodobým cílům. I kdybyste měli načas ustoupit do ústraní, protože doba není vhodná pro plodné jednání."
+    },
+    "787777": {
+        "id": "13",
+        "cd": "787777",
+        "top": "nebe",
+        "bottom": "oheň",
+        "name": "společenství",
+        "meaning": "Žijete v období, které je obzvláště významné ve společenské oblasti. Vaše činy jsou spojeny s činy a zájmy ostatních. Pociťujete nutnost sdružovat své zájmy a svou energii. To je základem jakéhokoli harmonického společenství. Je však nezbytné aby váš cíl byl jasný, nezištný. Skupina, k níž patříte, náležíte, by měla získat zkušeného vůdce, který je dost silný, aby vašemu společenství dal řád a pořádek."
+    },
+    "777787": {
+        "id": "14",
+        "cd": "777787",
+        "top": "oheň",
+        "bottom": "nebe",
+        "name": "bohatství",
+        "meaning": "U I-ťingu spočívá největší síla v pokoře. Skromnost sluší vládci. Tento hexagram oznamuje, že jste dosáhli úspěchu díky své dobrotě, oproštěné od sobectví. Šťastně sklízíte, co jste zasili. Nastal příhodný  okamžik. Jste svobodni v  jednání a vaše vlastnosti jsou uznány většinou. Šťastný člověk potlačuje zlo a podporuje dobro tak, jak si to žádá nebe."
+    },
+    "887888": {
+        "id": "15",
+        "cd": "887888",
+        "top": "země",
+        "bottom": "hora",
+        "name": "skromnost",
+        "meaning": "Tento hexagram je velmi příznivý. Říká, že pokud jste skromní a chováte se nenuceně, vaše postavení se zlepší. Nesete-li již významnou odpovědnost a zůstáváte-li pokorní, uspějete. Každý bude s tímto úspěchem souhlasit, neboť zákonem nebe je naplňovat prázdné. Ušlechtilý člověk své dílo dokončí. Ubírá tam, kde je mnoho a přidává tam, kde je nedostatek."
+    },
+    "888788": {
+        "id": "16",
+        "cd": "888788",
+        "top": "hrom",
+        "bottom": "země",
+        "name": "nadšení",
+        "meaning": "Vášeň, která vás ovládá, sdílíte s ostatními. Všichni vás s nadšením sledují. Nikdo vás nezradí. Nemusíte se bát rozdat pravomoci pomocníkům a táhnout do boje."
+    },
+    "788778": {
+        "id": "17",
+        "cd": "788778",
+        "top": "jezero",
+        "bottom": "hrom",
+        "name": "následek",
+        "meaning": "Je dvojího smyslu. Pokud si přejete být následováni, silou nezískáte nic, pouze snášenlivým a vřelým chováním. Jste-li však nuceni někoho následovat, nenechte se stáhnou do neovladatelného pohybu a nechte si čas pro přemýšlení a odpočinek. Respektujte aspekt času. Ve dne pracujte a večer se vraťte domů, abyste si odpočinuli."
+    },
+    "877887": {
+        "id": "18",
+        "cd": "877887",
+        "top": "hora",
+        "bottom": "vítr",
+        "name": "rozklad",
+        "meaning": "Situace je naprosto uzavřená. Berte to s největší vážností jako výzvu, protože jinak by bylo lepší se do ničeho nepouštět. Bezpochyby je to vaše vina. Byli jste příliš slabí, ochablí nebo jste neuměli využát nezbytných prostředků k zabránění rozkladu. Zkaženost je plodem lhostejnosti a lenosti. Před vámi je významný úkol. Nejdříve přemýšlet a analyzovat minulé, až poznáte skutečné příčiny současného rozkladu. Potom se musíte snažit, nejprve u sebe a poté u ostatních, o očistu a zdokonalení. Náprava vyžaduje důraznost i oběti. Ve snaze o nápravu věcí je třeba podstoupit riziko a přejít velkou řeku, protože nic jiného nezbývá."
+    },
+    "778888": {
+        "id": "19",
+        "cd": "778888",
+        "top": "země",
+        "bottom": "jezero",
+        "name": "vzestup",
+        "meaning": "Tato věštba je příznivá. Ukazuje, že postupujete, že se vaše situace zlepšuje a že směřujete k velkým odpovědnostem. Zároveň nesmíte zapomenout, že po každém vzestupu následuje pokles. Když na něj budete připraveni, bez úhony překlenete nevyhnutelné těžkosti. Sbližování vyšších s nižšími má blahodárné výsledky, nic však netrvá věčně a v určité chvíli může nastat krize."
+    },
+    "888877": {
+        "id": "20",
+        "cd": "888877",
+        "top": "vítr",
+        "bottom": "země",
+        "name": "pozorování",
+        "meaning": "Ten, kdo se vystavuje na obdiv druhým a povyšuje se na vzor, toho musí být hoden. Proto musí umět pozorovat bez přímé účasti na událostech. Využijte tohoto času k meditaci, pak budete poctěn důvěrou."
+    },
+    "788787": {
+        "id": "21",
+        "cd": "788787",
+        "top": "oheň",
+        "bottom": "hrom",
+        "name": "kousnutí",
+        "meaning": "Překážka rozhodně musí být odstraněna, dříve než způsobí trvalé škody. Je zde otázka nutného spravedlivého trestu, který má obnovit pořádek. Jen rázný čin přinese úspěch. Osoba jedná zrádně. Aby se zabránilo zmatkům a roztržce, je třeba neústupně zasáhnout, energicky, ovšem bez násilí, spravedlivě a nestranně. Trest by měl překážku nejen odstranit, ale také jiné odstrašit."
+    },
+    "787887": {
+        "id": "22",
+        "cd": "787887",
+        "top": "hora",
+        "bottom": "oheň",
+        "name": "půvab",
+        "meaning": "Tento hexagram zobrazuje krásu provázenou klidem. Elegance. Příjemnost. Nacházíte se v příjemném postavení, stranou od životních úskalí. Daleko od zápasů a bojů. Okolo vás vládne harmonie, vaše podnikání je příznivé. Tento půvab je však zdánlivý. Je formální, chybí mu základ. Půvab přináší úspěch, který se však netýká podstaty. Jeho lvýznam je proto omezen. Nelze dosáhnout velkých činů. Je dobré podniknout něco v malém. Tato předpověď je jinak významná v oblasti umělecké a tvůrčí."
+    },
+    "888887": {
+        "id": "23",
+        "cd": "888887",
+        "top": "hora",
+        "bottom": "hrom",
+        "name": "tříštění",
+        "meaning": "Vaše tvořivá činnost je jakoby podkopání působením obyčejných lidí. Vaše stavba nebo postavení se postupně bortí. Čas pro vás není příhodný a je nutné vyhnout se jakomukoliv ráznému činu. Musíte zůstat neústupní jako hora a zpevňovat si základy Není dobré vydávat se na cestu. Příležitost pro malé, těžké chvíle pro šlechetné."
+    },
+    "788888": {
+        "id": "24",
+        "cd": "788888",
+        "top": "země",
+        "bottom": "hrom",
+        "name": "návrat",
+        "meaning": "Vše se podřizuje věčnému a plynoucímu koloběhu života. Je to největšší přirozený zákon. Právě jste prožili těžké chvíle, ale kolo se točí dál a přináší s sebou příhodné změny. Je dobré vědět,  kam půjdete.  Vyskytují se  příležitosti umožňující znovunabytí ztracených výhod a především dosažení nových začátků. Návraty mají svůj řád. Jednejte s důvěrou, ale bez urychlování věcí. Pohyb a klid."
+    },
+    "788777": {
+        "id": "25",
+        "cd": "788777",
+        "top": "nebe",
+        "bottom": "hrom",
+        "name": "nevinnost",
+        "meaning": "Upřímnost a bezúhonnost. Nevinnost je stavem člověka, který právě přišel na svět. Ještě se nesetkal s žádným záporným vlivem, nezná ctižádost, faleš a závist. Jedná bezprostředně, v souladu s nebem, aniž by v sobě živil zvláštní naději, tak získává štěstí. Nebo jinak, když dodržíte pravidla a vytrváte - naděje na úspěch.<br> Tento hexagram, přizpůsobený individuálním situacím říká, že musíte jednat v duchu své hluboké přirozenosti a omezit v této chvíli své úmysly. Je to dobré a šťastné znamení, pokud se vyvarujete nesprávných kroků."
+    },
+    "777887": {
+        "id": "26",
+        "cd": "777887",
+        "top": "hora",
+        "bottom": "nebe",
+        "name": "božská moc",
+        "meaning": "Velký, namáhavý a zároveň riskantní podnik. Síla, jež zná své meze, ale přesto míří vpřed. Velké věci vyžadují spojení trořivé síly a pevnosti. Máte tuto moc, a to vám umožňuje dokonalý přehled o všech okolnostech.  Můžete se dokonce pokusit o nebezpečný podnik a bez obav na sebe vzít velkou odpovědnost, neboť je to Boží vůle. Nejíst jen doma přináší štěstí! Je dobré překročit velikou řeku."
+    },
+    "788887": {
+        "id": "27",
+        "cd": "788887",
+        "top": "hora",
+        "bottom": "hrom",
+        "name": "potrava",
+        "meaning": "Pozorujte, co lidé říkají a  čím se sytí. Potrava vchází otevřenými ústy a z nich vychází slovo. Moudrý člověk je ten, kdo mezi těmito dvěma funkcemi nachází rovnováhu. Jiný význam spočívá v myšlence pozorovat, jakým způsobem někdo jí a jakou potravu si vybírá - tak ho poznáme. Moudrý člověk na svá slova dává pozor, je střídmý v jídle i v pití."
+    },
+    "877778": {
+        "id": "28",
+        "cd": "877778",
+        "top": "jezero",
+        "bottom": "vítr",
+        "name": "převaha velkého",
+        "meaning": "Převaha velkého je taková, že nosné trámy jsou přetíženy. Existuje nerovnováha mezi tím, co máme podpořit a tím, co můžeme podporovat. Situace je nebezpečná, avšak úspěch je možný, byť kste nedosáhli vnitřní rovnováhy. Také byste měli co nejrychleji najít váchod. Vyjímečná doba vyjímečných opatření a rozhodného jednání. Vašimi spojenci budou klid, rozhodnost a především trpělivost, neboť významné změny vyžadují čas. Osamocený muž stojí bez strachu, ale nestýská si."
+    },
+    "878878": {
+        "id": "29",
+        "cd": "878878",
+        "top": "voda",
+        "bottom": "voda",
+        "name": "propadání",
+        "meaning": "Opakované nebezpečí - nepoddávejte se! Když jsme v nebezpečí, hrozí, že si na něj zvykneme a že znovu upadneme do ještě většího. Měli byste být jako voda, která teče a obtéká všechny překážky. Neztrácejte odvahu upřímně sledovat svou cestu,  aniž byste se nechali  ohromit nebo zastavit nebezpečím. Vaše  srdce nesmí propadnout  beznaději, ať je nebezpečí jakékoli."
+    },
+    "787787": {
+        "id": "30",
+        "cd": "787787",
+        "top": "oheň",
+        "bottom": "oheň",
+        "name": "oheň",
+        "meaning": "Oheň je navenek zářivý, ale uvnitř prázdný, nemůže žít bez paliva. Tento hexagram ličí zářivé, ale nesamostatné postavení. Jste obdivováni a stavěni do popředí. Tento úspěch bude trvat, pokud se nevzdálíte od těch, k nimž jste připoutáni ( nebo od těch, kteří jsou připoutáni k vám ).Úspěch závisí na vytrvalosti a mírnosti. Naděje."
+    },
+    "887778": {
+        "id": "31",
+        "cd": "887778",
+        "top": "jezero",
+        "bottom": "hora",
+        "name": "přitažlivost",
+        "meaning": "V přitažlivosti je stálost.  Předtucha je šťastná. Oznamuje vzájemnou  přitažlivost a  sympatii založenou  na vzájemném doplňování  se,  vyvolávajícím  svazek  a  úspěch. Vzájemná náklonnost. Může jít o nabídku spojení citového nebo pracovního, zasnoubení, žádost o sňatek, sexuální přitažlivost atd. Pod tím se skrývá rada - zůstávejte otevření a vnímaví k dobrým vlivům. Přitažlivost je totiž univerzální vlastností, jež spojuje vše."
+    },
+    "877788": {
+        "id": "32",
+        "cd": "877788",
+        "top": "hrom",
+        "bottom": "vítr",
+        "name": "stálost",
+        "meaning": "Skutečná stálost není vnější, nýbrž vnitřní. Když chcete vytvořit něco trvaléhoo, je nezbytné to neustále udržovat. Neupadejte do pasti zvyku a rutiny. Tento přístup by byl stejně škodlivý jako ten, který spočívá v neustálé změně směru. Stálost, vytrvalost a pohyb přizpůsobující se změmě okolnosí přispívají ke stálosti. Ušlechtilý muž stojí a nemění své způsoby. Je dobré mít kam jít."
+    },
+    "887777": {
+        "id": "33",
+        "cd": "887777",
+        "top": "nebe",
+        "bottom": "hora",
+        "name": "ústup",
+        "meaning": "Nepřátelské síly malosti a tajemna jsou na postupu a vy dočasně nemáte žádnou možnost je překonat. V takové situaci moudrost radí stáhnout se k ochraně. Je třeba myslet na ústup. Nejde o porážku, ani o útěk. Jde o ochranné opatření, které umožní uchovat vlastní síly nedotčeny.  Organizovaný ústup, který  zachová možnost návratu. Současně vyloučí jakoukoliv účast na špatných činech. Moudrý muž se vzdaluje malým do dočasného ústraní, bez hněvu, ale důsledně. Tím si uchová volnost a síly."
+    },
+    "777788": {
+        "id": "34",
+        "cd": "777788",
+        "top": "hrom",
+        "bottom": "nebe",
+        "name": "moc velkého",
+        "meaning": "Vzestup a úspěch pod podmínkou sebeovládání a mravnosti. Jste v období rozšiřování svého vlivu do všech oblastí. Abyste zůstali na cestě spravedlnosti, mírnosti a práva, vyžaduje to trvalou pozornost. Buďte mravní. Moc nesmí být egoisticky zneužívána. Silný je ten, kdo se ovládá. Čím větší moc, tím větší bohatství, tím více nástrah k jejímu zneužití."
+    },
+    "888787": {
+        "id": "35",
+        "cd": "888787",
+        "top": "oheň",
+        "bottom": "hrom",
+        "name": "pokrok",
+        "meaning": "Zárukou pokroku je věrnost podřízených a přejícnost nadřízených. Obojí je projevem vzájemné důvěry. Jste v období vzniku a růstu vašich skutečných možností. Přízeň mocných. Vaše postavení se stává vynikajícím a přináší značné výhody, neboť zůstáváte všem blízcí."
+    },
+    "787888": {
+        "id": "36",
+        "cd": "787888",
+        "top": "země",
+        "bottom": "oheň",
+        "name": "soumrak",
+        "meaning": "Slunce zapadlo, nastala tma. Je lépe splynout s ostatními a nesnažit se vyniknout. Jste v neznázích. Buď je celkové postavení temné, nebo jste pod vlivem člověka, jehož duše je plna temnot. Výtky neprospívají, nemůžete obnovit světlo. Předstírejte, že se přizpůsobujete, zachovejte si však vnitřní jas a nenechte se porazit. Tak budete připraveni  na návrat lepších časů. V nebezpečí je někdy lépe skrýt se a nedávat najevo svou vnitřní sílu. V nesnázích je dobré být vytrvalý."
+    },
+    "787877": {
+        "id": "37",
+        "cd": "787877",
+        "top": "vítr",
+        "bottom": "oheň",
+        "name": "rodina",
+        "meaning": "Základem všech vztahů je rodina. Odtud se vše odvíjí. V rodině, stejně jako v celé lidské společnosti je důležité, aby každý zůstával na svém místě a plnil své povinnosti. V rodině mají muž i žena své přesně určené místo. Žena uvnitř, muž venku. Ten, který má řídit, aby řídil a ten, kdo má poslouchat, aby poslouchal. Z vnitřní jednoty vyrůstá vnější harmonie. To platí také pro řízení společenství i státu. Ctěte a poslouchejte své rodiče."
+    },
+    "778787": {
+        "id": "38",
+        "cd": "778787",
+        "top": "oheň",
+        "bottom": "jezero",
+        "name": "protiklad",
+        "meaning": "Kde není soulad, tam je odcizení. Nedorozumnění je vyvoláno dvojí vůlí, každá má jiný smysl. Stále se více a více vzdalují. Těžko se na čemkoli shodnou. To znemožňuje společnou činnost a všechno velké podnikání. Nemůže být dosaženo žádného velkého úspěchu. Je lépe se spokojit se skromnou činností."
+    },
+    "887878": {
+        "id": "39",
+        "cd": "887878",
+        "top": "voda",
+        "bottom": "hora",
+        "name": "překážka",
+        "meaning": "Nepostupujte bezhlavě. Stojíte čelem k překážce, které nyní nelze vzdorovat. Musíte se hned zastavit a přemýšlet. Střízlivě zvážit vlastní omezené síly. Uvědomte si svoje zodpovědnosti. Není to náhoda, že jste v této  situaci sami. Zpytujte své svědomí a hledejte spojence. Neodmítejte pomoc, která je vám nabízena. Až pak můžete konečně vyrazit vpřed."
+    },
+    "878788": {
+        "id": "40",
+        "cd": "878788",
+        "top": "hrom",
+        "bottom": "voda",
+        "name": "osvobození",
+        "meaning": "Vaše potíže zmizí samy od sebe. Situace se vyjasní. Můžete jednat podle svého. Je-li cesta vpřed  volná, tím rychleji se po ní pusťte. Není-li volná, vraťte se. Pokud si to přejete, znovu najdete ztracenou rovnováhu a rozvoj. Za všech okolností musíte zapomenout na minulost a zlobu. Zůstaňte velkorysí. Moudrý člověk odpouští chyby a přijímá tresty."
+    },
+    "778887": {
+        "id": "41",
+        "cd": "778887",
+        "top": "hora",
+        "bottom": "jezero",
+        "name": "pokles",
+        "meaning": "Pokles znamená, že je třeba počítat s oběťmi. Není nutné to však brát tragicky. Je nezbytné je ochotně přinášet, aby byly s důvěrou přijímány. V životě je čas na všechno. Důležité je přizpůsobit se. Je vhodné odstranit přebytečné ve prospěch nezbytného. Důležitá je však otázka míry, která nesmí být překročena. A nakonec, když se materiální prostředky zmenšují, je čas rozvinout duševní síly, skromnost, spolupytřičnost, upřímnost a vytrvalost."
+    },
+    "788877": {
+        "id": "42",
+        "cd": "788877",
+        "top": "vítr",
+        "bottom": "hrom",
+        "name": "vzrůst",
+        "meaning": "Ocitli jste se v okamžiku blahobytu, který nebude mít věčné trvání. Musíte ho využít k podnikání. Udržujte všechno kladné a odstraňujte všechno škodlivé. Neváhejte a využijte tu správnou chvíli. Příznivé znamení pro vážný, možná i riskantní záměr, můžete-li se na sebe dostatečně spolehnout. "
+    },
+    "777778": {
+        "id": "43",
+        "cd": "777778",
+        "top": "jezero",
+        "bottom": "nebe",
+        "name": "průlom",
+        "meaning": "Neberte nebezpečí na lehkou váhu. Můžete se přidržet dvou vysvětlení. <br>1) Číhá na vás malé, ale zákeřné nebezpečí. Pokud se v postavení vyskytuje jediný špatný prvek, může jej poskvrnit. Musíte být energičtí a rozhodně ho odstranit. Musíte být otevření vůči nadřízeným i podřízeným. Tím si zajistíte podporu.<br>2) Jinak tento hexagram označuje nebezpečí spojené se vším hromaděním. Po něm automaticky následuje rozptýlení. Z toho vyplývá nebezpečí příliš velkého vlastnictví a způsob jednání usilujícího o opětovné získání rovnováhy. Dopřejte jiným a bude přáno i vám. Bez náklonnosti nebe člověk nic nesvede."
+    },
+    "877777": {
+        "id": "44",
+        "cd": "877777",
+        "top": "nebe",
+        "bottom": "vítr",
+        "name": "vyjít naproti",
+        "meaning": "Je dvojí.1) Musíte být obezřelý při všech setkáních, i když vám nepřipadají nebezpečná. Není radno si brát za manželku silnou ženu. Lépe uděláte, když se jí vyhnete. 2) Někdy je dobré, když slabý jde před silnějším (za podmínky, že jeho jednání bude upřímné a bez postranních myšlenek). Může to mít dobré stránky, když se tak děje bez nečistých úmyslů."
+    },
+    "888778": {
+        "id": "45",
+        "cd": "888778",
+        "top": "jezero",
+        "bottom": "země",
+        "name": "shromáždění",
+        "meaning": "Každé shromáždění žádá řád, jinak může být nebezpečné. Tento hexagram popisuje shluk lidí v širším smyslu než je rodinné spojení (rodina,37), nebo než je vzájemná pomoc (spojení,8). Použitím pro  jednotlivé situace naznačuje,  že k takovému shromáždění dochází pouze jsou-li splněny tři podmínky:<br>- spojení ke společnému cíly,<br>- přítomnost vůdce a vnitřní soudržnost.<br>Hrozí však také určité nebezpečí. Každý musí hlídat všechny podezřelé prvky, které by mohly do skupiny proniknout a uškodit jí. Ušlechtilý muž ošetřuje zbraně, aby se vyvaroval nečekaného napadení."
+    },
+    "877888": {
+        "id": "46",
+        "cd": "877888",
+        "top": "země",
+        "bottom": "vítr",
+        "name": "stoupání",
+        "meaning": "Ocitli jste se v postavení, kdy je možný pokrok, neboť zde nejsou překážky. Všechno závisí na vůli a vyší práci. Nemějte obavy. Věštba zároveň  doporučuje, abyste se  případným neúspěchem nenechali ovlivnit  nebo odradit, nýbrž  abyste se snažili dosáhnout vrcholu \"ve vývoji a vzestupu\". Moudrý člověk pomalu, krok za krokem, hromadí drobné úspěchy, až dosáhne velkého štěstí."
+    },
+    "878778": {
+        "id": "47",
+        "cd": "878778",
+        "top": "jezero",
+        "bottom": "voda",
+        "name": "vyčerpání",
+        "meaning": "Nebezpečí, zkouška vůle a charakteru. Chvíle, v níž převažuje neštěstí. Jste v zajetí nebo područí malých lidí. Vaše zdroje, duševní i hmotné, jsou vyčerpány. Jste obkláčen a tísněn ze všech stran. Už nemáte sílu reagovat a ostatní vám odmítají pomoci. Můžete pouze zůstat věrni svým přesvědčením a cílům. Jdete za svým údělem, i kdyby vás to mělo stát život. Tuto výzvu je třeba přijmout. Možná přece jen přijde štěstí. Vytrvalost."
+    },
+    "877878": {
+        "id": "48",
+        "cd": "877878",
+        "top": "voda",
+        "bottom": "vítr",
+        "name": "studna",
+        "meaning": "Tento hexagram má významnou filozofickou hodnotu. Vyjadřuje význam a prospěch vzájemné obecné spolupráce. Současně popisuje lidskou  podstatu  v  jejím  nejhlubším  smyslu. Politické, hospodářské, klimatické i kulturní poměry se stále mění, ale člověk ve své podstatě zůstává stejný. Naznačuje, že ten, kdo sám hledá, musí jít do nitra věcí, aniž by se zastavil nebo aniž by se nechal ovlivnit konvencemi či módou. Ve vašem nitru je zdroj vaší síly i smysl vašeho života."
+    },
+    "787778": {
+        "id": "49",
+        "cd": "787778",
+        "top": "oheň",
+        "bottom": "vítr",
+        "name": "převrat",
+        "meaning": "Rovnováha je velmi citlivá a vratká. Mír je křehký, srážky časté. Věštba hovoří o období přeměn, změn, které je nutné přijmout. Zároveň říká, že úplné přeměny a revoluce jsou nebezpečnými záležitostmi. Podnítit je je nutné jen tehdy, není-li jiné východisko. I v takovém případě je třeba opatrně vybrat chvíli a ujistit se o vnější opoře. Vytrvalostí se dočkáme nápravy, jestliže ke změně přikročíme ve správnou chvíli."
+    },
+    "877787": {
+        "id": "50",
+        "cd": "877787",
+        "top": "jezero",
+        "bottom": "oheň",
+        "name": "kotlík",
+        "meaning": "Kotlík symbolizuje nejen hojnost potravy, ale také řád. Je nezbytné obnovit přirozený a účelný řád věcí. Obsahuje myšlenku bohaté potravy ve smyslu materiálním i duchovním. S pokorou se obracejte k tomu, co je nad vámi i k tomu, co vás přesahuje. Dodržujte posvátné zákony a obřady, jimiž se obracíte k vyšším věcem. Pak dosáhnete úspěchu."
+    },
+    "788788": {
+        "id": "51",
+        "cd": "788788",
+        "top": "hrom",
+        "bottom": "hrom",
+        "name": "bouře",
+        "meaning": "Jste  v  postavení,  které  pociťujete  jako  nebezpečné a nepředvídané. Berte to jako varování, buďte opatrní. Všechno je v drásavém pohybu. Obáváte se, že už nic nezvládnete a že budete unášeni jako stéblo ve vichřici. Snažte se zachovat klid a rozvahu. Využijte toto období ke zcela svobodnému jednání. Dávejte si pozor a neudělejte chybu. Tak využijete otřes ve svůj prospšch. Včasná opatření (obavy) vedou k úspěchu."
+    },
+    "887887": {
+        "id": "52",
+        "cd": "887887",
+        "top": "hora",
+        "bottom": "hora",
+        "name": "znehybnění",
+        "meaning": "Stání je pritikladem pohybu. Skutečný smysl znehybnění musíme chápat vzhledem k pohybu. Pohyb se musí dít ve správné době. Zde je člověk nehybný ze dvou důvodů: buď právě jedná nebo právě něco dokončil a odpočívá. Tento stav je přirozený a nevyvolává žádné předsudky. Je však mnohem obtížnější najít klid srdce a ovládnout své emoce. To je nejvyšší stadium znehybnění."
+    },
+    "887877": {
+        "id": "53",
+        "cd": "887877",
+        "top": "vítr",
+        "bottom": "hora",
+        "name": "rozvoj",
+        "meaning": "K pevné stavbě je nutné postupovat pomalu a postupně. Všechno žádá své a všechno chce svůj čas. To platí jak pro aktivní život, tak pro mezilidské vztahy. Unáhlený postup není dobrý. Trpělivost vede k příznivému vývoji. Znamená to, že musíte, vzhledem k tomu, co vás znepokojuje, respektovat pravidla a nepostupovat rychle. Dřevo v lesích roste pomalu, ale je pevné. Také člověk si musí postupně pěstovat svůj charakter."
+    },
+    "778788": {
+        "id": "54",
+        "cd": "778788",
+        "top": "hrom",
+        "bottom": "jezero",
+        "name": "nevěsta",
+        "meaning": "Význam:  Hexagram naznačuje  způsob chování  v mezilidských vztazích, pronikáte-li do ustáleneého kruhu. Jak hledat a najít své správné místo? Nesmíte se snažit nahradit stávající moc nebo zpochybňovat zavedené výsady. Na vaší cestě vás čekají problémy a překážky. Je třeba jednat předvídavě a vytrvale, aniž byste zapoměli na cíl, k němuž jste se upnuli. Plynulým postupem vpřed se člověk nakonec dostane až tam, kam patří."
+    },
+    "787788": {
+        "id": "55",
+        "cd": "787788",
+        "top": "hrom",
+        "bottom": "oheň",
+        "name": "hojnost",
+        "meaning": "Spravedlnost navozuje dobré vztahy a příznivé ovzduší. Jestliže se čin a pohyb opírají o inteligenci a jasnost, člověk uspěje ve včech podnicích. Pohoda a úspěch. Buďte si ale vědomi, že nic netrvá věčně. Teď se s těmi, které milujete, bez obav radujte ze svého vítězství. Buďte jako slunce v pravé poledne."
+    },
+    "887787": {
+        "id": "56",
+        "cd": "887787",
+        "top": "oheň",
+        "bottom": "hora",
+        "name": "poutník",
+        "meaning": "Putování není situací vhodnou pro velké dílo. Nese s sebou nejistotu neznámích míst a neznámích lidí. Ať jste si cestování vybrali nebo jste k němu donuceni okolnostmi, musíte respektovat některé zásady:  mít dobré styky, vyhnout  se zastávkám v nebezpečných místech, prikazovat laskavost. Cestování vyžaduje odolnost a vytrvalost. Je možné, že se tento výrok vztahuje k hledání vývoje (vnitřní cesta). Můžete očekávat jen úspěchy v malém. Nejsou podmínky pro velké dílo."
+    },
+    "877877": {
+        "id": "57",
+        "cd": "877877",
+        "top": "vítr",
+        "bottom": "vítr",
+        "name": "vítr",
+        "meaning": "Vítr proniká vším, působí skrytě, bez zjevného násilý. Proniká do každé skuliny a v tom je jeho síla. Žádná temnota neodolá tomu, kdo se projevuje jasně, bez násilý, kdo si zachová rozhodnost a vytrvalost.  Zároveň  může  potřebovat  pomocl  aktivního a energického člověka. Malý může dosáhnout úspěchu, jen když je vytrvalý nebo když získá podporu silného."
+    },
+    "778778": {
+        "id": "58",
+        "cd": "778778",
+        "top": "jezero",
+        "bottom": "jezero",
+        "name": "radost",
+        "meaning": "Dvě navzájem spojená jezera znamenají shodu, která se projevuje v radosti, nakažlivé veselosti. Zároveň je to radostný postoj, poskytuje-li štěstí, potřebuje vytrvalost. Ušlechtilý člověk se spojí s přáteli, aby se domluvili. Je to znamení vnitřní síly, sebedůvěry a vnější schopnosti jít vstříct. V osobní rovině vám tento hexagram  naznačuje, ža laskavým  a vládným chováním dosáhnete mnohem víc, než násilým a mocí. Pravda a síla mají být v srdci, zatímco navenek projevujeme něhu a měkkost."
+    },
+    "878877": {
+        "id": "59",
+        "cd": "878877",
+        "top": "vítr",
+        "bottom": "voda",
+        "name": "rozklad",
+        "meaning": "Tato předzvěst je velmi příznivá. Naznačuje různé způsoby boje proti  odloučení,  dosažení  usmíření.  Jak překonat chvíle nejednoty, uvolnění a rozpadu. Nejdřív je však nezbytné překonat vlastní sobectví. Každé sdružování musí spočívat v porozumění a vytrvalosti. Jen tak se lidé mohou semknout, vydat se na cestu a překonat všechna nebezpečí."
+    },
+    "778878": {
+        "id": "60",
+        "cd": "778878",
+        "top": "voda",
+        "bottom": "jezero",
+        "name": "omezení",
+        "meaning": "Když se do jezera vlévá další voda, hrozí přelití. To vyžaduje ohrazení. Pořádek je proto vždy tvořen omezeními. Každá nadsázka, v hojnosti i odříkání, je nebezpečná. Proto musíte jednat mírně, prosazovat postupná a rozumná omezení - ani příliš, ani málo. Naděje a prosperita, omezení však v nezměměné podobě nesmí trvat příliš dlouho. Ani v dobách prosperity nepodceňujte opatrnost, ale ani v čase nebezpečí nepropadejte zoufalství, nýbrž ho postupně omezujte."
+    },
+    "778877": {
+        "id": "61",
+        "cd": "778877",
+        "top": "vítr",
+        "bottom": "jezero",
+        "name": "vnitřní pravda",
+        "meaning": "Porozumění spojené s ušlechtilostí, užitečností a s nepříjemností předsudků dodává tem, kteří tyto vlastnosti mají, velkou moc nad druhými. Jejich  vliv je neomezený.  Pomáhá jim překonávat překážky. Vnitřní dispozice i vnější okolnosti jsou příznivé. Jejich vnitřní síla vyzařuje a osvětluje okolí. Nikdy by ji však neměli využívat pro sebe nebo mít postranní myšlenky. Jen neokázalé oběti jsou opravdové. Je příhodná chvíle k překonání velké řeky."
+    },
+    "887788": {
+        "id": "62",
+        "cd": "887788",
+        "top": "hrom",
+        "bottom": "hora",
+        "name": "převaha malého",
+        "meaning": "Čas není vhodný na velké činy. Přehnaná sebedůvěra může vést k pádu. Dostali jste se do situace, v níž nemůžete uskutečnit velké věci. Je dobré být vytrvalý a činit malé věci. Hexagram radí, abyste  se podrobili  úkolu a  pozornost věnovali  splnění každodenních povinností. Jakékoliv smělé chování přivolává pád. Nedejte se strhnout a nevznášejte se k výšinám, na které namáte."
+    },
+    "787878": {
+        "id": "63",
+        "cd": "787878",
+        "top": "voda",
+        "bottom": "oheň",
+        "name": "po dokončení",
+        "meaning": "Na první pohled je všechno v dokonalém pořádku. Blíží se však pokles a únava. Jakmile je totiž pořádek obnoven, úkol dokončen a touhy uspokojeny, vzniká pokušení nechat věcem volný průběh a odpočívat. Takové chování však podněcuje nové potíže. Nepolevujte v pozornosti. Pamatujte na možné komplikace a připravujte se jim čelit. Vytrvalost je užitečná."
+    },
+    "878787": {
+        "id": "64",
+        "cd": "878787",
+        "top": "oheň",
+        "bottom": "voda",
+        "name": "před dokončením",
+        "meaning": "Je to hexagram o nekonečnosti života. O věčném koloběhu v přírodě. Tato příznivá věštba naznačuje, že na cestě je změna, třebaže situace vypadá ještě zmateně. Bedlivě pozorujte věci kolem sebe. Musíte být zkrátka nápomocni událostem, aby byla vytvořena harmonie. Je zde však také výstraha a napomenutí k opatrnosti, až do konce, jinak vás totiž nebude čekat nic dobrého."
+    }
+}
+}
