@@ -3,7 +3,7 @@ Dim a,b,c,d,e,f,x,y,z,hexagram(3),prvni,druhy,treti,ctvrty,paty,sesty,tlac
 Dim ID
 ID =""
 ID = ID & Request.QueryString("ID")
-If ID = "" then ID = "8ýúůIxpOáQnV"
+If ID = "" then ID = "8Ă˝ĂşĹŻIxpOĂˇQnV"
 
 prvni = ""
 druhy = ""
@@ -65,31 +65,31 @@ End IF
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="robots" content="all">
-<meta name="keywords" content="I-ťing, i-ťing, I ťing, i ťing, I ting, i ting, I-ting, i-ting, Iting, iting, Kniha proměn, věštění, čínská moudrost, věštírna online, budoucnost, filozofie, kosmologie, taoismus">
-<meta name="description" content="iting.timetree.info - I ťing Kniha proměn, pochopte současnost a rozhodujte lépe o budoucnosti. Víc než věštírna online.">
+<meta name="keywords" content="I-ĹĄing, i-ĹĄing, I ĹĄing, i ĹĄing, I ting, i ting, I-ting, i-ting, Iting, iting, Kniha promÄ›n, vÄ›ĹˇtÄ›nĂ­, ÄŤĂ­nskĂˇ moudrost, vÄ›ĹˇtĂ­rna online, budoucnost, filozofie, kosmologie, taoismus">
+<meta name="description" content="iting.timetree.info - I ĹĄing Kniha promÄ›n, pochopte souÄŤasnost a rozhodujte lĂ©pe o budoucnosti. VĂ­c neĹľ vÄ›ĹˇtĂ­rna online.">
 <meta http-equiv="Expires" content="0">
 <meta name="Author" content="Lubomir Kamensky">
 <meta name="google-site-verification" content="zL-JQsPfqN9U0jFYq-Xw3X-LVOOVHTAmY1GMr_zHKH4" />
-<title>Kniha Proměn I-ťing, víc než věštírna online</title>
+<title>Kniha PromÄ›n I-ĹĄing, vĂ­c neĹľ vÄ›ĹˇtĂ­rna online</title>
 </head>
 <body bgcolor="#000000" text="#FF0000" link="red" vlink="red">
-<p align="center"><a href="/kniham.htm">Stručný
-návod k použití</a> 
+<p align="center"><a href="/kniham.htm">StruÄŤnĂ˝
+nĂˇvod k pouĹľitĂ­</a> 
 </p>
 
 <center>
-<h1 style="width:600; margin-left: auto; margin-right: auto; text-align: center;">I-ťing - Kniha proměn</h1>
+<h1 style="width:600; margin-left: auto; margin-right: auto; text-align: center;">I-ĹĄing - Kniha promÄ›n</h1>
 <div style="color:white; width:600; margin-left: auto; margin-right: auto">
-	Kniha proměn není klasickým nástrojem věštění budoucnosti.
-	Je mnohem víc.
-	Pomáhá nám vybrat si tu nejlepší možnou budoucnost na základě dokonalého pochopení současné situace.
-	Rozbor často složitých okolností pomocí vzorů vzešlých z tisícileté moudrosti pomůže jasněji uvidět dobrá rozhodnutí.
-	Ať k takovým rozhodnutím pomůže i Vám!
+	Kniha promÄ›n nenĂ­ klasickĂ˝m nĂˇstrojem vÄ›ĹˇtÄ›nĂ­ budoucnosti.
+	Je mnohem vĂ­c.
+	PomĂˇhĂˇ nĂˇm vybrat si tu nejlepĹˇĂ­ moĹľnou budoucnost na zĂˇkladÄ› dokonalĂ©ho pochopenĂ­ souÄŤasnĂ© situace.
+	Rozbor ÄŤasto sloĹľitĂ˝ch okolnostĂ­ pomocĂ­ vzorĹŻ vzeĹˇlĂ˝ch z tisĂ­ciletĂ© moudrosti pomĹŻĹľe jasnÄ›ji uvidÄ›t dobrĂˇ rozhodnutĂ­.
+	AĹĄ k takovĂ˝m rozhodnutĂ­m pomĹŻĹľe i VĂˇm!
 	<p>
-		Není od věci přečíst si návod: <a style="color:white;" href="http://iting.timetree.info/kniham.htm">http://iting.timetree.info/kniham.htm</a>.
-		Další zajímavé informace o Knize proměn a více souvislostí s oblastmi filozofie, kosmologie a taoismu na Wikipedii: <a style="color:white;" href="http://cs.wikipedia.org/wiki/I-ťing" target="_blank">http://cs.wikipedia.org/wiki/I-ťing</a>.
+		NenĂ­ od vÄ›ci pĹ™eÄŤĂ­st si nĂˇvod: <a style="color:white;" href="http://iting.timetree.info/kniham.htm">http://iting.timetree.info/kniham.htm</a>.
+		DalĹˇĂ­ zajĂ­mavĂ© informace o Knize promÄ›n a vĂ­ce souvislostĂ­ s oblastmi filozofie, kosmologie a taoismu na Wikipedii: <a style="color:white;" href="http://cs.wikipedia.org/wiki/I-ĹĄing" target="_blank">http://cs.wikipedia.org/wiki/I-ĹĄing</a>.
 	</p>
 </div>
 </center>
@@ -108,7 +108,7 @@ návod k použití</a>
 </table>
 
 <form method="POST" action="vrh.asp">
-  <p><br><input type="submit" value="Hoď mincemi !"></p>
+  <p><br><input type="submit" value="HoÄŹ mincemi !"></p>
 </form>
 
 </center></div>
@@ -131,27 +131,27 @@ návod k použití</a>
 </center></div>
 
 <% prvni = "<img src='/images/" & a & ".gif' width='170'>"
-   tlac = "ještě pětkrát"
+   tlac = "jeĹˇtÄ› pÄ›tkrĂˇt"
    End If
 
    If b > 5 and b < 10 then
      druhy = "<img src='/images/" & b & ".gif' width='170'>"
-     tlac = "ještě čtyřikrát"
+     tlac = "jeĹˇtÄ› ÄŤtyĹ™ikrĂˇt"
    End If
 
    If c > 5 and c < 10 then
      treti = "<img src='/images/" & c & ".gif' width='170'>"
-     tlac = "ještě třikrát"
+     tlac = "jeĹˇtÄ› tĹ™ikrĂˇt"
    End If
 
    If d > 5 and d < 10 then
      ctvrty = "<img src='/images/" & d & ".gif' width='170'>"
-     tlac = "ještě dvakrát"
+     tlac = "jeĹˇtÄ› dvakrĂˇt"
    End If
 
    If e > 5 and e < 10 then
      paty = "<img src='/images/" & e & ".gif' width='170'>"
-     tlac = "ještě jednou"
+     tlac = "jeĹˇtÄ› jednou"
    End If
 
    If f > 5 and f < 10 then
@@ -313,13 +313,13 @@ End If
 <p align="center">
 <font color="#008000">----------------------------------------------------------------------------------------------------</font>
 <div style="color:white; width:600; margin-left: auto; margin-right: auto;">
-	Tato stránka je volně přístupná pro všechny díky zobrazování reklamy v pravé části.
-	Google říká, že tam zobrazuje jen reklamu, která souvisí s tímto tématem.
-	Pokud Vás tam něco zaujme, tak to prosím prověřte.
+	Tato strĂˇnka je volnÄ› pĹ™Ă­stupnĂˇ pro vĹˇechny dĂ­ky zobrazovĂˇnĂ­ reklamy v pravĂ© ÄŤĂˇsti.
+	Google Ĺ™Ă­kĂˇ, Ĺľe tam zobrazuje jen reklamu, kterĂˇ souvisĂ­ s tĂ­mto tĂ©matem.
+	Pokud VĂˇs tam nÄ›co zaujme, tak to prosĂ­m provÄ›Ĺ™te.
 </div>
 <br><br>
 <font color="#008000" size="1">
-(Citace vykladů hexagramů z knihy: Richter Johan, Kapesní I-ťing, Bratislava 1997)<br><br><br>
+(Citace vykladĹŻ hexagramĹŻ z knihy: Richter Johan, KapesnĂ­ I-ĹĄing, Bratislava 1997)<br><br><br>
 </font>
 </p>
 <% End If %>
@@ -333,7 +333,7 @@ End If
 <span style="position: absolute; top: 10px; right: 10px;">
 <script type="text/javascript"><!--
 google_ad_client = "pub-7820443912133417";
-/* I-ťing Kniha proměn (sloupec) */
+/* I-ĹĄing Kniha promÄ›n (sloupec) */
 google_ad_slot = "3577311948";
 google_ad_width = 160;
 google_ad_height = 600;
