@@ -1,2 +1,2 @@
 import dataJson from './iting.json' assert { type: 'json' };
-document.getElementById('main').innerHTML = dataJson.stringify();
+document.getElementById('main').innerHTML = JSON.stringify(dataJson);
