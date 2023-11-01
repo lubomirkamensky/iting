@@ -1,3 +1,4 @@
+import {json} from './hexagram.js';
 function throwCoins() {
   document.getElementById('hex_name').innerHTML = json.Hexagrams["777777"]["name"];
   document.getElementById('hex_id').innerHTML = json.Hexagrams["777777"]["id"];
