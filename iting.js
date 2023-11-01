@@ -14,7 +14,7 @@ function tcoins() {
 }
 
 function arrSum(arr) { 
-  sum = 0;  
+  let sum = 0;  
   arr.forEach(n => sum += n); 
   return sum; 
 }
@@ -28,12 +28,10 @@ export function throwCoins() {
 
   if (window.allThrows.length < 6) {
     window.allThrows.push(arrSum(window.currentThrow));
-} else {
+  } else {
     window.allThrows = [];
     window.allThrows.push(arrSum(window.currentThrow)); 
-}
-
-  
+  }
 
   document.getElementById('hex_name').innerHTML = json.Hexagrams["777777"]["name"];
   document.getElementById('hex_id').innerHTML = json.Hexagrams["777777"]["id"];
