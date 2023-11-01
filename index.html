@@ -51,7 +51,7 @@ swiper-container {
 
 <body>
   
-  <swiper-container class="mySwiper" space-between="30" pagination="true" pagination-clickable="true">
+  <swiper-container class="mySwiper" space-between="30" pagination="true" pagination-clickable="true" id="itingbox1">
     <swiper-slide><h3><span>První čára hexagramu</span></h3>
                   <p>
                     <img src="./images/6.gif" width="170" height="33"><br>
@@ -74,7 +74,7 @@ swiper-container {
     <swiper-slide>Podmínkou úspěšné věšťby je naprostá soustředěnost na otázku, jejíž zodpovězení Vás zajímá. Nesmíte se věnovat naprosto žádné jiné činnosti.Vytvoření obrazce se nám může jevit jako nahodilý jev. Skutečností však je, že každý vzniklý obrazec je unikátním a nevyhnutelným produktem chvíle, který odráží otisk budoucnosti tazatele, spojený s jeho minulostí a přítomností. Kniha moudrosti nám pomáhá vybrat tu nejlepší možnou budoucnost na základě dokonalého pochopení současné situace</swiper-slide>
   </swiper-container>
 
-  <swiper-container class="mySwiper2" space-between="30" pagination="true" pagination-clickable="true">
+  <swiper-container class="mySwiper2" space-between="30" pagination="true" pagination-clickable="true"  id="itingbox2">
     <swiper-slide>         
       <p><img src="./images/3.gif" width="68" height="68" alt="mince" id="coin1">
          <img src="./images/3.gif" width="68" height="68" alt="mince" id="coin2">
@@ -111,7 +111,7 @@ swiper-container {
 
   <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-element-bundle.min.js"></script>
   <script type="module">
-    import {throwCoins} from "./index.js";
+    import {throwCoins} from "./main.js";
     window.throwCoins = throwCoins; 
   </script>
 </body>

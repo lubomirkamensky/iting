@@ -3,9 +3,12 @@ const json = await response.json();
 
 window.currentThrow = [];
 window.allThrows = [];
+window.orderT = ["","První","Druhá","Třetí","Čtvrtá","Pátá","Šestá"];
+window.hexalines = ["","","","","","",'<img src="./images/6.gif" width="170" height="33"><br>','<img src="./images/7.gif" width="170" height="17"><br>','<img src="./images/8.gif" width="170" height="21"><br>','<img src="./images/9.gif" width="170" height="33"><br>'];
 window.hexagram = "";
 window.prediction1 = "";
 window.prediction2 = "";
+           
 
 function arrSum(arr) { 
   let sum = 0;  
@@ -32,6 +35,16 @@ export function throwCoins() {
   document.getElementById("coin2").src="./images/" + window.currentThrow[1] + ".gif";
   document.getElementById("coin3").src="./images/" + window.currentThrow[2] + ".gif";
 
+  window.hexagram = "<swiper-slide><h3><span>" + window.orderT[window.allThrows.length] + " čára hexagramu</span></h3><p>"
+
+  for (const element of window.allThrows) {
+    window.hexagram = window.hexagram + window.hexalines[element]
+  }
+
+  window.hexagram = window.hexagram + "</p></swiper-slide>"
+
+  document.getElementById('itingbox1').innerHTML = ""
+  document.getElementById('itingbox1').insertAdjacentHTML("afterend", window.hexagram);
 
   document.getElementById('hex_name').innerHTML = json.Hexagrams["777777"]["name"];
   document.getElementById('hex_id').innerHTML = json.Hexagrams["777777"]["id"];
