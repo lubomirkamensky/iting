@@ -9,7 +9,7 @@ window.prediction2 = "";
 
 
 function tcoins() {
-	Math.floor((Math.random() * 4) + 2);
+	return Math.floor(Math.random() * (4 - 2) + 2);
 }
 
 function arrSum(arr) { 
