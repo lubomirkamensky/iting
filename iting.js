@@ -44,7 +44,7 @@ export function throwCoins() {
   window.hexagram = window.hexagram + "</p></swiper-slide>"
 
   document.getElementById('itingbox1').innerHTML = ""
-  document.getElementById('itingbox1').insertAdjacentHTML("afterend", window.hexagram);
+  document.getElementById('itingbox1').insertAdjacentHTML("beforeend", window.hexagram);
 
   document.getElementById('hex_name').innerHTML = json.Hexagrams["777777"]["name"];
   document.getElementById('hex_id').innerHTML = json.Hexagrams["777777"]["id"];
