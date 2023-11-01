@@ -33,6 +33,11 @@ export function throwCoins() {
     window.allThrows.push(arrSum(window.currentThrow)); 
   }
 
+  document.getElementById("coin1").src="./images/" + window.currentThrow[0] + ".gif";
+  document.getElementById("coin2").src="./images/" + window.currentThrow[1] + ".gif";
+  document.getElementById("coin3").src="./images/" + window.currentThrow[2] + ".gif";
+
+
   document.getElementById('hex_name').innerHTML = json.Hexagrams["777777"]["name"];
   document.getElementById('hex_id').innerHTML = json.Hexagrams["777777"]["id"];
   document.getElementById('hex_top').innerHTML = json.Hexagrams["777777"]["top"];
