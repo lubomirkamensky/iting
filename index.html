@@ -46,6 +46,7 @@ swiper-container {
 }
 
   </style>
+
 </head>
 
 <body>
@@ -59,22 +60,60 @@ swiper-container {
                     <img src="./images/9.gif" width="170" height="33"></p>
     </swiper-slide>
     <swiper-slide>Pokud se v hexagramu vyskytují proměnné čáry je potřeba vyložit hexagram nejdříve jako by všechny čáry byly pevné a pak se všechny proměnné převedou do jejich protikladů. Tím vytvoříte druhý hexagram. Význam druhého hexagramu pak doplní a modifikuje význam prvního.</swiper-slide>
+    <swiper-slide>Podmínkou úspěšné věšťby je naprostá soustředěnost na otázku, jejíž zodpovězení Vás zajímá. Nesmíte se věnovat naprosto žádné jiné činnosti.Vytvoření obrazce se nám může jevit jako nahodilý jev. Skutečností však je, že každý vzniklý obrazec je unikátním a nevyhnutelným produktem chvíle, který odráží otisk budoucnosti tazatele, spojený s jeho minulostí a přítomností. Kniha moudrosti nám pomáhá vybrat tu nejlepší možnou budoucnost na základě dokonalého pochopení současné situace</swiper-slide>
   </swiper-container>
 
   <swiper-container class="mySwiper2" space-between="30" pagination="true" pagination-clickable="true">
-    <swiper-slide>            
+    <swiper-slide>         
               <p><img src="./images/3.gif" width="68" height="68" alt="mince">
               <img src="./images/3.gif" width="68" height="68" alt="mince">
               <img src="./images/3.gif" width="68" height="68" alt="mince"></p>
             
             <p><input type="submit" value="Hoď mincemi !"></p></swiper-slide>
-    <swiper-slide>Slide 2</swiper-slide>
+    <swiper-slide>
+      
+            <table>
+            <tr>
+                <td style="text-align: center; vertical-align: middle; padding: 20px;">
+                  <b id="hex_id"></b>
+                </td>
+                <td style="text-align: center; vertical-align: middle; padding: 20px;">
+                        <b id="hex_name"></b>
+                </td>
+            </tr>
+            </table>
+            <div id="hex_meaning"></div>
+            <table>
+            <tr>
+                <td style="text-align: center; vertical-align: middle; padding: 20px;">
+                  <img src="/images/mini/7.gif" width="57" height="6"><br>
+                  <img src="/images/mini/7.gif" width="57" height="6"><br>
+                  <img src="/images/mini/8.gif" width="57" height="6">
+                </td>
+                <td style="text-align: center; vertical-align: middle; padding: 20px;">
+                    <div id="hex_top"></div>
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: center; vertical-align: middle; padding: 20px;">
+                  <img src="/images/mini/8.gif" width="57" height="6"><br>
+                  <img src="/images/mini/7.gif" width="57" height="6"><br>
+                  <img src="/images/mini/8.gif" width="57" height="6">
+                </td>
+                <td style="text-align: center; vertical-align: middle; padding: 20px;">
+                  <div id="hex_bottom"></div>
+                </td>
+            </tr>
+            </table>
+
+    </swiper-slide>
     <swiper-slide>Slide 3</swiper-slide>
   </swiper-container>
 
 
 
   <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-element-bundle.min.js"></script>
+  <script type="module" src="./hexagram.js"></script>
 </body>
 
 </html>
