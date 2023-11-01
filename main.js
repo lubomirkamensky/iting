@@ -3,7 +3,6 @@ const json = await response.json();
 
 window.currentThrow = [];
 window.allThrows = [];
-window.coins = "";
 window.hexagram = "";
 window.prediction1 = "";
 window.prediction2 = "";
