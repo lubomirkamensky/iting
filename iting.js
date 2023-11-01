@@ -7,11 +7,6 @@ window.hexagram = "";
 window.prediction1 = "";
 window.prediction2 = "";
 
-
-function tcoins() {
-	return Math.floor(Math.random() * (4 - 2) + 2);
-}
-
 function arrSum(arr) { 
   let sum = 0;  
   arr.forEach(n => sum += n); 
@@ -21,9 +16,10 @@ function arrSum(arr) {
 
 export function throwCoins() {
   
-  window.currentThrow[0] = Math.floor(Math.random() * (3 - 2 + 1)) + 2 ;
-  window.currentThrow[1] = tcoins() ;
-  window.currentThrow[2] = tcoins() ;
+  const randomIntegerInRange = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
+  window.currentThrow[0] = Math.floor(Math.random() * (3 - 2 + 1)) + 2;
+  window.currentThrow[1] = Math.floor(Math.random() * (4 - 2) + 2);
+  window.currentThrow[2] = randomIntegerInRange(2,3);
 
   if (window.allThrows.length < 6) {
     window.allThrows.push(arrSum(window.currentThrow));
