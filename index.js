@@ -21,7 +21,7 @@ function arrSum(arr) {
 
 export function throwCoins() {
   
-  window.currentThrow[0] = tcoins() ;
+  window.currentThrow[0] = Math.floor(Math.random() * (3 - 2 + 1)) + 2 ;
   window.currentThrow[1] = tcoins() ;
   window.currentThrow[2] = tcoins() ;
 
