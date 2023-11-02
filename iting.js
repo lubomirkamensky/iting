@@ -16,7 +16,7 @@ function arrSum(arr) {
   return sum; 
 }
 
-makePrediction(hexagram) {
+function makePrediction(hexagram) {
 	let prediction =  '<swiper-slide><h3>' + json.Hexagrams[hexagram]["id"] + '. ' + json.Hexagrams[hexagram]["name"] + '</h3>'
 	prediction = prediction + '<div>' + json.Hexagrams[hexagram]["meaning"] + '</div><div align="center"><table><tr>'
 	prediction = prediction + '<td style="text-align: center; vertical-align: middle; padding: 10px;"><img src="/images/mini/' + hexagram.charAt(2) + '.gif" width="57" height="6"><br><img src="/images/mini/' + hexagram.charAt(1) + '.gif" width="57" height="6"><br><img src="/images/mini/' + hexagram.charAt(0) + '.gif" width="57" height="6"></td>'
