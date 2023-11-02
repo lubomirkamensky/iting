@@ -9,11 +9,7 @@ window.minilines = ["","","","","","","","/images/mini/7.gif","/images/mini/8.gi
 window.hexagram = "";
 window.hexa1 = "";
 window.hexa2 = "";
-window.prediction1 = "";
-window.prediction2 = "";
-
            
-
 function arrSum(arr) { 
   let sum = 0;  
   arr.forEach(n => sum += n); 
