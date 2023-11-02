@@ -14,7 +14,7 @@
     }
 
     body {
-      background: #eee;
+      background: black;
       font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
       font-size: 14px;
       color: white;
@@ -22,59 +22,28 @@
       padding: 0;
     }
 
-    swiper-container {
-      width: 90%;
-      height: 50%;
-      margin: 10px 0;
-    }
-
-    swiper-slide {
-      text-align: center;
-      font-size: 16px;
-      background: black;
-    }
-
-
-
-    body {
-      background: black;
-    }
-
-swiper-container { 
-  --swiper-pagination-bullet-inactive-color: var(--ion-color-step-200, #cccccc);
-  --swiper-pagination-color: var(--ion-color-primary, red);
-}
-
   </style>
 
 </head>
 
-<body>
-  
-  <swiper-container class="mySwiper" space-between="30" pagination="true" pagination-clickable="true" id="itingbox1">
-    <swiper-slide>I-ťing - Kniha proměn, jejíž historie sahá až 4 000 let do minulosti, znamená mnohem víc než pouhý prostředek k věštění. Je především knihou moudrosti, která nabízí radu jak se vypořádat s budoucností. Hlavním prvkem knihy proměn je hexagram. Je to obrazec šesti horizontálních čar, který se skládá i čte odspodu nahoru. </swiper-slide>
-    <swiper-slide>Obrazce mají jméno, označení a podrobnou interpretaci s obsaženým rozhodnutím. Věšťba probíhá vrhem 3 mincí stejné hodnoty. Číselná hodnota lícové strany je 3, číselná hodnota rubu je 2. Když mince rozhodíme, sečteme po dopadu bodové hodnoty. </swiper-slide>
-    <swiper-slide>Výsledná hodnota udává vznik čáry hexagramu. Provedením 6 vrhů minců, získáte 6 čar hexagramu.</swiper-slide>
-    <swiper-slide>Hodnota 6: proměnná čára jin<p><img src="./images/6.gif" width="170" height="33"></p></swiper-slide>
-    <swiper-slide>Hodnota 7: pevná čára jang<p><img src="./images/7.gif" width="170" height="17"></p></swiper-slide>
-    <swiper-slide>Hodnota 8: pevná čára jin<p><img src="./images/8.gif" width="170" height="21"></p></swiper-slide>
-    <swiper-slide>Hodnota 9: proměnná čára jang<p><img src="./images/9.gif" width="170" height="33"></p></swiper-slide>
-    <swiper-slide>Pokud se v hexagramu vyskytují proměnné čáry je potřeba vyložit hexagram nejdříve jako by všechny čáry byly pevné a pak se všechny proměnné převedou do jejich protikladů. Tím vytvoříte druhý hexagram. Význam druhého hexagramu pak doplní a modifikuje význam prvního. </swiper-slide>
-    <swiper-slide>S naší Knihou si tento postup ušetříte a poté, co šestkrát hodíte mincemi, rovnou přečtete význam vzešlých hexagramů. Podmínkou úspěšné věšťby je naprostá soustředěnost na otázku, jejíž zodpovězení Vás zajímá. Nesmíte se věnovat naprosto žádné jiné činnosti.</swiper-slide>
-    <swiper-slide>Vytvoření obrazce se nám může jevit jako nahodilý jev. Skutečností však je, že každý vzniklý obrazec je unikátním a nevyhnutelným produktem chvíle, který odráží otisk budoucnosti tazatele, spojený s jeho minulostí a přítomností. Kniha moudrosti nám pomáhá vybrat tu nejlepší možnou budoucnost na základě dokonalého pochopení současné situace</swiper-slide>
-  </swiper-container>
-
-  <swiper-container class="mySwiper2" space-between="30" pagination="true" pagination-clickable="true"  id="itingbox2">
-    <swiper-slide>         
+<body><div id="itingbox1"></div><div id="itingbox2"></div>
+      <div>         
       <p><img src="./images/3.gif" width="68" height="68" alt="mince" id="coin1">
          <img src="./images/3.gif" width="68" height="68" alt="mince" id="coin2">
          <img src="./images/3.gif" width="68" height="68" alt="mince" id="coin3"></p>  
          <button type="button" onclick="throwCoins();">Hoď mincemi !</button>
-      </swiper-slide>
-  </swiper-container>
+      </div>
+  <div>I-ťing - Kniha proměn, jejíž historie sahá až 4 000 let do minulosti, znamená mnohem víc než pouhý prostředek k věštění. Je především knihou moudrosti, která nabízí radu jak se vypořádat s budoucností. Hlavním prvkem knihy proměn je hexagram. Je to obrazec šesti horizontálních čar, který se skládá i čte odspodu nahoru. </div>
+    <div>Obrazce mají jméno, označení a podrobnou interpretaci s obsaženým rozhodnutím. Věšťba probíhá vrhem 3 mincí stejné hodnoty. Číselná hodnota lícové strany je 3, číselná hodnota rubu je 2. Když mince rozhodíme, sečteme po dopadu bodové hodnoty. </div>
+    <div>Výsledná hodnota udává vznik čáry hexagramu. Provedením 6 vrhů minců, získáte 6 čar hexagramu.</div>
+    <div>Hodnota 6: proměnná čára jin<p><img src="./images/6.gif" width="170" height="33"></p></div>
+    <div>Hodnota 7: pevná čára jang<p><img src="./images/7.gif" width="170" height="17"></p></div>
+    <div>Hodnota 8: pevná čára jin<p><img src="./images/8.gif" width="170" height="21"></p></div>
+    <div>Hodnota 9: proměnná čára jang<p><img src="./images/9.gif" width="170" height="33"></p></div>
+    <div>Pokud se v hexagramu vyskytují proměnné čáry je potřeba vyložit hexagram nejdříve jako by všechny čáry byly pevné a pak se všechny proměnné převedou do jejich protikladů. Tím vytvoříte druhý hexagram. Význam druhého hexagramu pak doplní a modifikuje význam prvního. </div>
+    <div>S naší Knihou si tento postup ušetříte a poté, co šestkrát hodíte mincemi, rovnou přečtete význam vzešlých hexagramů. Podmínkou úspěšné věšťby je naprostá soustředěnost na otázku, jejíž zodpovězení Vás zajímá. Nesmíte se věnovat naprosto žádné jiné činnosti.</div>
+    <div>Vytvoření obrazce se nám může jevit jako nahodilý jev. Skutečností však je, že každý vzniklý obrazec je unikátním a nevyhnutelným produktem chvíle, který odráží otisk budoucnosti tazatele, spojený s jeho minulostí a přítomností. Kniha moudrosti nám pomáhá vybrat tu nejlepší možnou budoucnost na základě dokonalého pochopení současné situace</div>
 
-
-  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
   <script type="module">
     import {throwCoins} from "./lib/iting.js";
     window.throwCoins = throwCoins; 
