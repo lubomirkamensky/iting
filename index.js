@@ -37,13 +37,11 @@ export function throwCoins() {
   document.getElementById("coin2").src="./images/" + window.currentThrow[1] + ".gif";
   document.getElementById("coin3").src="./images/" + window.currentThrow[2] + ".gif";
 
-  window.hexagram = "<swiper-slide><h3><span>" + window.orderT[window.allThrows.length] + " čára hexagramu</span></h3><p>"
-
-  for (const element of window.allThrows.reverse()) {
-    window.hexagram = window.hexagram + window.hexalines[element]
+  for (const element of window.allThrows {
+    window.hexagram = window.hexalines[element] + window.hexagram
   }
 
-  window.hexagram = window.hexagram + "</p></swiper-slide>"
+  window.hexagram = "<swiper-slide><h3><span>" + window.orderT[window.allThrows.length] + " čára hexagramu</span></h3><p>" + window.hexagram + "</p></swiper-slide>"
 
   document.getElementById('itingbox1').innerHTML = ""
   document.getElementById('itingbox1').insertAdjacentHTML("beforeend", window.hexagram);
