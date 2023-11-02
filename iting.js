@@ -37,7 +37,7 @@ export function throwCoins() {
   document.getElementById("coin2").src="./images/" + window.currentThrow[1] + ".gif";
   document.getElementById("coin3").src="./images/" + window.currentThrow[2] + ".gif";
 
-  for (const element of window.allThrows {
+  for (const element of window.allThrows) {
     window.hexagram = window.hexalines[element] + window.hexagram
   }
 
