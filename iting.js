@@ -66,16 +66,16 @@ export function throwCoins() {
   	window.hexa1 = window.allThrows.join("");
   }
 
-  if (hexa1 != "" && hexa2 != "") {
+  if (window.hexa1 != "" && window.hexa2 != "") {
   	document.getElementById('itingbox1').innerHTML = ""
-  	document.getElementById('itingbox1').insertAdjacentHTML("beforeend", makePrediction(hexa1));
+  	document.getElementById('itingbox1').insertAdjacentHTML("beforeend", makePrediction(window.hexa1));
   	document.getElementById('itingbox2').innerHTML = ""
-  	document.getElementById('itingbox2').insertAdjacentHTML("beforeend", makePrediction(hexa2));
+  	document.getElementById('itingbox2').insertAdjacentHTML("beforeend", makePrediction(window.hexa2));
   }
 
-  if (hexa1 != "" && hexa2 == "") {
+  if (window.hexa1 != "" && window.hexa2 == "") {
   	document.getElementById('itingbox2').innerHTML = ""
-  	document.getElementById('itingbox2').insertAdjacentHTML("beforeend", makePrediction(hexa1));
+  	document.getElementById('itingbox2').insertAdjacentHTML("beforeend", makePrediction(window.hexa1));
   }
 
 }
