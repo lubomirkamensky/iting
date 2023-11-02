@@ -9,6 +9,7 @@ window.minilines = ["","","","","","","","/images/mini/7.gif","/images/mini/8.gi
 window.hexagram = "";
 window.hexa1 = "";
 window.hexa2 = "";
+window.start_prediction = '<swiper-slide><p><img src="./images/3.gif" width="68" height="68" alt="mince" id="coin1"><img src="./images/3.gif" width="68" height="68" alt="mince" id="coin2"><img src="./images/3.gif" width="68" height="68" alt="mince" id="coin3"></p><button type="button" onclick="throwCoins();">Hoď mincemi !</button></swiper-slide>'
            
 function arrSum(arr) { 
   let sum = 0;  
@@ -67,11 +68,13 @@ export function throwCoins() {
   	document.getElementById('itingbox1').insertAdjacentHTML("beforeend", makePrediction(window.hexa1));
   	document.getElementById('itingbox2').innerHTML = ""
   	document.getElementById('itingbox2').insertAdjacentHTML("beforeend", makePrediction(window.hexa2));
+  	document.getElementById('itingbox2').insertAdjacentHTML("beforeend", window.start_prediction);
   }
 
   if (window.hexa1 != "" && window.hexa2 == "") {
   	document.getElementById('itingbox2').innerHTML = ""
   	document.getElementById('itingbox2').insertAdjacentHTML("beforeend", makePrediction(window.hexa1));
+  	document.getElementById('itingbox2').insertAdjacentHTML("beforeend", window.start_prediction);
   }
 
 }
