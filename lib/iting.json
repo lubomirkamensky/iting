@@ -141,7 +141,7 @@
         "top": "hora",
         "bottom": "vítr",
         "name": "rozklad",
-        "meaning": "Situace je naprosto uzavřená. Berte to s největší vážností jako výzvu, protože jinak by bylo lepší se do ničeho nepouštět. Bezpochyby je to vaše vina. Byli jste příliš slabí, ochablí nebo jste neuměli využát nezbytných prostředků k zabránění rozkladu. Zkaženost je plodem lhostejnosti a lenosti. Před vámi je významný úkol. Nejdříve přemýšlet a analyzovat minulé, až poznáte skutečné příčiny současného rozkladu. Potom se musíte snažit, nejprve u sebe a poté u ostatních, o očistu a zdokonalení. Náprava vyžaduje důraznost i oběti. Ve snaze o nápravu věcí je třeba podstoupit riziko a přejít velkou řeku, protože nic jiného nezbývá."
+        "meaning": "Situace je naprosto uzavřená. Berte to s největší vážností jako výzvu, protože jinak by bylo lepší se do ničeho nepouštět. Bezpochyby je to vaše vina. Byli jste příliš slabí, ochablí nebo jste neuměli využít nezbytných prostředků k zabránění rozkladu. Zkaženost je plodem lhostejnosti a lenosti. Před vámi je významný úkol. Nejdříve přemýšlet a analyzovat minulé, až poznáte skutečné příčiny současného rozkladu. Potom se musíte snažit, nejprve u sebe a poté u ostatních, o očistu a zdokonalení. Náprava vyžaduje důraznost i oběti. Ve snaze o nápravu věcí je třeba podstoupit riziko a přejít velkou řeku, protože nic jiného nezbývá."
     },
     "778888": {
         "id": "19",
@@ -181,7 +181,7 @@
         "top": "hora",
         "bottom": "hrom",
         "name": "tříštění",
-        "meaning": "Vaše tvořivá činnost je jakoby podkopání působením obyčejných lidí. Vaše stavba nebo postavení se postupně bortí. Čas pro vás není příhodný a je nutné vyhnout se jakomukoliv ráznému činu. Musíte zůstat neústupní jako hora a zpevňovat si základy Není dobré vydávat se na cestu. Příležitost pro malé, těžké chvíle pro šlechetné."
+        "meaning": "Vaše tvořivá činnost je jakoby podkopána působením obyčejných lidí. Vaše stavba nebo postavení se postupně bortí. Čas pro vás není příhodný a je nutné vyhnout se jakomukoliv ráznému činu. Musíte zůstat neústupní jako hora a zpevňovat si základy Není dobré vydávat se na cestu. Příležitost pro malé, těžké chvíle pro šlechetné."
     },
     "788888": {
         "id": "24",
@@ -275,7 +275,7 @@
         "id": "35",
         "cd": "888787",
         "top": "oheň",
-        "bottom": "hrom",
+        "bottom": "země",
         "name": "pokrok",
         "meaning": "Zárukou pokroku je věrnost podřízených a přejícnost nadřízených. Obojí je projevem vzájemné důvěry. Jste v období vzniku a růstu vašich skutečných možností. Přízeň mocných. Vaše postavení se stává vynikajícím a přináší značné výhody, neboť zůstáváte všem blízcí."
     },
@@ -405,7 +405,7 @@
         "top": "hrom",
         "bottom": "hrom",
         "name": "bouře",
-        "meaning": "Jste  v  postavení,  které  pociťujete  jako  nebezpečné a nepředvídané. Berte to jako varování, buďte opatrní. Všechno je v drásavém pohybu. Obáváte se, že už nic nezvládnete a že budete unášeni jako stéblo ve vichřici. Snažte se zachovat klid a rozvahu. Využijte toto období ke zcela svobodnému jednání. Dávejte si pozor a neudělejte chybu. Tak využijete otřes ve svůj prospšch. Včasná opatření (obavy) vedou k úspěchu."
+        "meaning": "Jste  v  postavení,  které  pociťujete  jako  nebezpečné a nepředvídané. Berte to jako varování, buďte opatrní. Všechno je v drásavém pohybu. Obáváte se, že už nic nezvládnete a že budete unášeni jako stéblo ve vichřici. Snažte se zachovat klid a rozvahu. Využijte toto období ke zcela svobodnému jednání. Dávejte si pozor a neudělejte chybu. Tak využijete otřes ve svůj prospěch. Včasná opatření (obavy) vedou k úspěchu."
     },
     "887887": {
         "id": "52",
