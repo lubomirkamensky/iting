@@ -37,7 +37,7 @@
         "top": "voda",
         "bottom": "nebe",
         "name": "čekání",
-        "meaning": "Tento hexagram se vykládá ve dvou úrovních. Nejprve znamená - pokud se chystá nějaká událost, je zbytečné se snažit uspíšit její příchod. Všechno má svůj čas. Není nutné zasahovat, je třeba na její chvíli počkat. Vytrvalost přináší štěstí! Poté vám oznamuje přítomnost nebezpečí nezávislého na vaší vůli, před nímž se musíte zastavit, abyste mu pohlédli do tváře, předvídavě, aniž byste si dělali iluze. Až ho skutečně poznáte, můžete mu čelit s vyhrajete. Je nutné mít trpělivost s sebedůvěru, potom zvládnete i velké riziko."
+        "meaning": "Tento hexagram se vykládá ve dvou úrovních. Jednak znamená, že pokud se chystá nějaká událost, je zbytečné se snažit uspíšit její příchod. Všechno má svůj čas. Není nutné zasahovat, je třeba na její chvíli počkat. Vytrvalost přináší štěstí. A pak také vám oznamuje přítomnost nebezpečí nezávislého na vaší vůli. Před nímž se musíte zastavit, abyste mu pohlédli do tváře. Předvídavě, aniž byste si dělali iluze. Až ho skutečně poznáte, můžete mu čelit a vyhrajete. Je nutné mít trpělivost a sebedůvěru, potom zvládnete i velké riziko."
     },
     "878777": {
         "id": "6",
@@ -45,7 +45,7 @@
         "top": "nebe",
         "bottom": "voda",
         "name": "konflikt",
-        "meaning": "Třebaže jste si svým právem  jisti, jste čelem k silnému protikladu způsobujícímu střetnutí, které jste v pokušení vyžešit násilím. Nebezpečí. Bez zbytečného riskování lze přežít i to, co na první pohled vypadá neřešitelně. Vězte, že zacházet do krajnosti vám nijak nepomůže. Vyvolávalo by to neustále nové konflikty. Zajímejte se spíše  o názor někoho nestranného. Šlechetný člověk při práci dlouho zvažuje svůj první krok. Není příhodná chvíle chtít překročit velkou řeku."
+        "meaning": "Třebaže jste si svým právem  jisti, jste čelem k silnému protikladu způsobujícímu střetnutí, které jste v pokušení vyřešit násilím. Nebezpečí. Bez zbytečného riskování lze přežít i to, co na první pohled vypadá neřešitelně. Vězte, že zacházet do krajnosti vám nijak nepomůže. Vyvolávalo by to neustále nové konflikty. Zajímejte se spíše  o názor někoho nestranného. Šlechetný člověk při práci dlouho zvažuje svůj první krok. Není příhodná chvíle chtít překročit velkou řeku."
     },
     "878888": {
         "id": "7",
@@ -229,7 +229,7 @@
         "top": "voda",
         "bottom": "voda",
         "name": "propadání",
-        "meaning": "Opakované nebezpečí - nepoddávejte se! Když jsme v nebezpečí, hrozí, že si na něj zvykneme a že znovu upadneme do ještě většího. Měli byste být jako voda, která teče a obtéká všechny překážky. Neztrácejte odvahu upřímně sledovat svou cestu,  aniž byste se nechali  ohromit nebo zastavit nebezpečím. Vaše  srdce nesmí propadnout  beznaději, ať je nebezpečí jakékoli."
+        "meaning": "Když se opakuje nebezpečí, nepoddávejte se mu. Když jsme v nebezpečí, hrozí, že si na něj zvykneme a že znovu upadneme do ještě většího. Měli byste být jako voda, která teče a obtéká všechny překážky. Neztrácejte odvahu upřímně sledovat svou cestu,  aniž byste se nechali  ohromit nebo zastavit nebezpečím. Vaše  srdce nesmí propadnout  beznaději, ať je nebezpečí jakékoli."
     },
     "787787": {
         "id": "30",
@@ -237,7 +237,7 @@
         "top": "oheň",
         "bottom": "oheň",
         "name": "oheň",
-        "meaning": "Oheň je navenek zářivý, ale uvnitř prázdný, nemůže žít bez paliva. Tento hexagram ličí zářivé, ale nesamostatné postavení. Jste obdivováni a stavěni do popředí. Tento úspěch bude trvat, pokud se nevzdálíte od těch, k nimž jste připoutáni ( nebo od těch, kteří jsou připoutáni k vám ).Úspěch závisí na vytrvalosti a mírnosti. Naděje."
+        "meaning": "Oheň je navenek zářivý, ale uvnitř prázdný, nemůže žít bez paliva. Tento hexagram ličí zářivé, ale nesamostatné postavení. Jste obdivováni a stavěni do popředí. Tento úspěch bude trvat, pokud se nevzdálíte od těch, k nimž jste připoutáni, nebo od těch, kteří jsou připoutáni k vám. Úspěch závisí na vytrvalosti a mírnosti. Naděje."
     },
     "887778": {
         "id": "31",
@@ -357,7 +357,7 @@
         "top": "jezero",
         "bottom": "země",
         "name": "shromáždění",
-        "meaning": "Každé shromáždění žádá řád, jinak může být nebezpečné. Tento hexagram popisuje shluk lidí v širším smyslu než je rodinné spojení (rodina,37), nebo než je vzájemná pomoc (spojení,8). Použitím pro  jednotlivé situace naznačuje,  že k takovému shromáždění dochází pouze jsou-li splněny tři podmínky:<br>- spojení ke společnému cíly,<br>- přítomnost vůdce a vnitřní soudržnost.<br>Hrozí však také určité nebezpečí. Každý musí hlídat všechny podezřelé prvky, které by mohly do skupiny proniknout a uškodit jí. Ušlechtilý muž ošetřuje zbraně, aby se vyvaroval nečekaného napadení."
+        "meaning": "Každé shromáždění žádá řád, jinak může být nebezpečné. Tento hexagram popisuje shluk lidí v širším smyslu než je rodinné spojení (Rodina), nebo než je vzájemná pomoc (Spojení). Použitím pro  jednotlivé situace naznačuje,  že k takovému shromáždění dochází pouze jsou-li splněny tři podmínky: společný cíl, vůdce, vnitřní soudržnost. Hrozí však také určité nebezpečí. Každý musí hlídat všechny podezřelé prvky, které by mohly do skupiny proniknout a uškodit jí. Ušlechtilý muž ošetřuje zbraně, aby se vyvaroval nečekaného napadení."
     },
     "877888": {
         "id": "46",
