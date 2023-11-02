@@ -6,6 +6,8 @@ window.allThrows = [];
 window.orderT = ["","První","Druhá","Třetí","Čtvrtá","Pátá","Šestá"];
 window.hexalines = ["","","","","","",'<img src="./images/6.gif" width="170" height="33"><br>','<img src="./images/7.gif" width="170" height="17"><br>','<img src="./images/8.gif" width="170" height="21"><br>','<img src="./images/9.gif" width="170" height="33"><br>'];
 window.hexagram = "";
+window.hexa1 = "";
+window.hexa2 = "";
 window.prediction1 = "";
 window.prediction2 = "";
            
@@ -37,7 +39,7 @@ export function throwCoins() {
 
   window.hexagram = "<swiper-slide><h3><span>" + window.orderT[window.allThrows.length] + " čára hexagramu</span></h3><p>"
 
-  for (const element of window.allThrows) {
+  for (const element of window.allThrows.reverse()) {
     window.hexagram = window.hexagram + window.hexalines[element]
   }
 
@@ -45,6 +47,13 @@ export function throwCoins() {
 
   document.getElementById('itingbox1').innerHTML = ""
   document.getElementById('itingbox1').insertAdjacentHTML("beforeend", window.hexagram);
+
+  if (window.allThrows.length == 6 && (window.allThrows.includes(6) || window.allThrows.includes(9))) {
+  	window.hexa1 = window.allThrows.join("").replace("6", "8").replace("9", "7");
+    window.hexa2 = window.allThrows.join("").replace("6", "7").replace("9", "8");
+  } else if (window.allThrows.length == 6) {
+  	window.hexa1 = window.allThrows.join("");
+  }
 
   document.getElementById('hex_name').innerHTML = json.Hexagrams["777777"]["name"];
   document.getElementById('hex_id').innerHTML = json.Hexagrams["777777"]["id"];
